@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords>4574F704D33F45B283F9784AC1F64</Passwords>
+          <File RecordLimit="" FileFormat="23">odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list</File>
+          <FormatSpecificOptions>
+            <PreSQLOnConfig>True</PreSQLOnConfig>
+            <ReadCentroids>False</ReadCentroids>
+            <NoProgress>True</NoProgress>
+            <ReadUncommitted>False</ReadUncommitted>
+            <TableStyle>Quoted</TableStyle>
+            <PreSQL />
+            <PostSQL />
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>DSN=altryx
+Table=Select * From sakila.customer_list</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="ID" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="Int32" />
+            <Field name="name" size="91" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="V_String" />
+            <Field name="address" size="50" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="V_String" />
+            <Field name="zip code" size="10" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="V_String" />
+            <Field name="phone" size="20" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="V_String" />
+            <Field name="city" size="50" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="V_String" />
+            <Field name="country" size="50" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="V_String" />
+            <Field name="notes" size="6" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="V_String" />
+            <Field name="SID" source="File: odbc:DSN=altryx;UID=root;PWD=__EncPwd1__|||Select * From sakila.customer_list" type="Int16" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>3 - Input Data Tool - Connect to SQL server</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

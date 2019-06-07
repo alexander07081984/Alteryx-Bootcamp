@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.2">
+  <Nodes>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="78" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="id" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="state" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="stop_date" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="stop_time" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="location_raw" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="county_name" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="county_fips" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="fine_grained_location" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="police_department" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="driver_gender" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="driver_age_raw" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="driver_age" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="driver_race_raw" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="driver_race" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="violation_raw" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="violation" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="search_conducted" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="search_type_raw" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="search_type" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="contraband_found" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="stop_outcome" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="is_arrested" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="out_of_state" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="arrest_reason" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="stop_duration" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+            <Field name="search_duration" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\2.11 Browse Tool\Maryland Police Stops 2007-2014 (Stanford Open Policing Project).csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="162" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\adam\AppData\Local\Temp\2\Engine_3504_0beb7102d2cd49acb6fc094141c9640c_\Engine_4496_d61634d3cd30476dbf336950f3350090_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>8 - Browse Tool</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
