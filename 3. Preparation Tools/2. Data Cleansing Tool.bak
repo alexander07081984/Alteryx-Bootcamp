@@ -1,0 +1,2083 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.0">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="54" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="100" />
+          <Fields>
+            <Field name="Customer_Name" />
+            <Field name="Customer_Phone" />
+            <Field name="Customer_Email" />
+            <Field name="CustomerSince" />
+            <Field name="Customer_ID" />
+            <Field name="Store_ID" />
+            <Field name="Store_Location" />
+            <Field name="Store_City" />
+            <Field name="Store_Zip" />
+            <Field name="Store_Region" />
+            <Field name="Store_Coordinates" />
+            <Field name="Store_Manager" />
+            <Field name="Transaction_Date" />
+            <Field name="Transaction_Amount" />
+            <Field name="Transaction_ID" />
+            <Field name="PAYMENTMETHOD" />
+            <Field name="Department" />
+            <Field name="ProductID" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Bean, Kameko G.</c>
+              <c>1-456-489-4632</c>
+              <c>et@nulla.co.uk</c>
+              <c>10/09/16</c>
+              <c>16510702-4035</c>
+              <c>1</c>
+              <c>P.O. Box 916, 4145 Lorem St.</c>
+              <c>Chandler</c>
+              <c>86170</c>
+              <c>AZ</c>
+              <c>-17.60788, -36.77028</c>
+              <c>Sacha Calhoun</c>
+              <c>2016-08-27 09:33:37</c>
+              <c>$90.40</c>
+              <c>9A3EBC2B-CC83-D267-9C9C-A9EEE555255F</c>
+              <c>Voucher</c>
+              <c>Electronics</c>
+              <c>2B9777AF-5D8D-5A55-60BC-03541EF05145</c>
+            </r>
+            <r>
+              <c>Palmer, Cruz K.</c>
+              <c>1-662-607-0491</c>
+              <c>massa.non.ante@nulla.ca</c>
+              <c>08/26/16</c>
+              <c>16480728-5541</c>
+              <c>2</c>
+              <c>P.O. Box 276, 4637 Dignissim Street</c>
+              <c>Kapolei</c>
+              <c>79997</c>
+              <c>HI</c>
+              <c>37.3884, 5.93114</c>
+              <c>Channing A. Blair</c>
+              <c>2016-06-27 10:25:16</c>
+              <c>$77.94</c>
+              <c>EACF5302-002E-82BE-F8E7-FF74B837DD5E</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>83E75C70-1F66-F38C-AD1D-0747C604403E</c>
+            </r>
+            <r>
+              <c>Monroe, Hoyt B.</c>
+              <c>1-851-910-1678</c>
+              <c>Nunc.commodo.auctor@gravidamaurisut.co.uk</c>
+              <c>07/09/16</c>
+              <c>16290922-1265</c>
+              <c>3</c>
+              <c>Ap #642-7135 Eleifend, St.</c>
+              <c>Kaneohe</c>
+              <c>83843</c>
+              <c>Hawaii</c>
+              <c>78.90804, -125.91426</c>
+              <c>Curran Sims</c>
+              <c>2016-10-23 10:49:41</c>
+              <c>$8.03</c>
+              <c>F86722A8-3B86-BBD1-A284-2F01D3436C50</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>45884B9E-0EEA-E352-B9E5-4AB364B2840C</c>
+            </r>
+            <r>
+              <c>Rosales, Asher O.</c>
+              <c>1-898-246-5645</c>
+              <c>tempor.diam.dictum@tristique.ca</c>
+              <c>08/06/16</c>
+              <c>16841104-0200</c>
+              <c>4</c>
+              <c>3829 Elit. Road</c>
+              <c>Fort Wayne</c>
+              <c>33133</c>
+              <c>Indiana</c>
+              <c>82.5627, -174.83856</c>
+              <c>Amena K. Castillo</c>
+              <c>2017-01-03 13:02:50</c>
+              <c>$69.60</c>
+              <c>422791B5-D8D7-0289-32A5-60C1CACB5F80</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>EE671001-44BF-C765-35F8-C918E6962AC2</c>
+            </r>
+            <r>
+              <c>Sargent, Gregory W.</c>
+              <c>1-418-514-1192</c>
+              <c>Cum.sociis.natoque@non.org</c>
+              <c>11/02/16</c>
+              <c>16010421-7518</c>
+              <c>5</c>
+              <c>Ap #769-2971 Mauris Ave</c>
+              <c>Rochester</c>
+              <c>41404</c>
+              <c>Minnesota</c>
+              <c>-43.1526, 4.88612</c>
+              <c>Shaeleigh I. Gallegos</c>
+              <c>2017-02-22 00:33:49</c>
+              <c>$92.57</c>
+              <c>8A635EAA-9818-A62A-D444-21B9EA969C64</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>A865DE80-BE49-FDF0-7F19-01C9D35D079F</c>
+            </r>
+            <r>
+              <c>Landry, Hakeem N.</c>
+              <c>1-469-337-2748</c>
+              <c>dui.nec@infaucibusorci.com</c>
+              <c>11/26/16</c>
+              <c>16590117-5249</c>
+              <c>6</c>
+              <c>Ap #573-6852 Purus. Rd.</c>
+              <c>Newport News</c>
+              <c>62038</c>
+              <c>VA</c>
+              <c>-70.78568, -53.0844</c>
+              <c>Odessa Bell</c>
+              <c>2016-10-09 20:53:45</c>
+              <c>$80.10</c>
+              <c>814D96C9-A6C3-0A63-8910-9EE09468BB94</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>982CDA57-4351-9D52-288E-9DB125442071</c>
+            </r>
+            <r>
+              <c>Mathews, Ashton M.</c>
+              <c>1-899-318-9831</c>
+              <c>eu@gravidasitamet.com</c>
+              <c>12/21/16</c>
+              <c>16930525-9138</c>
+              <c>7</c>
+              <c>5924 Hendrerit Rd.</c>
+              <c>Mesa</c>
+              <c>86171</c>
+              <c>AZ</c>
+              <c>17.07634, 36.38926</c>
+              <c>Rosalyn H. Sykes</c>
+              <c>2018-02-10 11:20:39</c>
+              <c>$9.78</c>
+              <c>27AC941F-DF63-4C33-4629-5140D3C344B1</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>C3F7580C-8031-A409-D581-DD08EF4B2F57</c>
+            </r>
+            <r>
+              <c>Watson, Amos I.</c>
+              <c>1-117-971-3095</c>
+              <c>Proin.vel.nisl@cursusetmagna.edu</c>
+              <c>10/13/16</c>
+              <c>16900109-5562</c>
+              <c>8</c>
+              <c>Ap #414-8610 Amet Rd.</c>
+              <c>Fort Collins</c>
+              <c>71769</c>
+              <c>Colorado</c>
+              <c>3.51035, 55.86008</c>
+              <c>Audrey O. Battle</c>
+              <c>2016-12-02 16:05:37</c>
+              <c>$62.28</c>
+              <c>38D710ED-85C5-F0CF-9122-986FA7E6711C</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>3C847A84-510B-68E6-939B-DC02F27BFCF9</c>
+            </r>
+            <r>
+              <c>Russo, Shoshana R.</c>
+              <c>1-615-340-5376</c>
+              <c>est.mauris@mollisDuissit.org</c>
+              <c>07/12/16</c>
+              <c>16881122-5526</c>
+              <c>9</c>
+              <c>P.O. Box 894, 4224 Aliquam St.</c>
+              <c>Lakewood</c>
+              <c>60366</c>
+              <c>Colorado</c>
+              <c>-87.24456, 18.39205</c>
+              <c>Naida Cotton</c>
+              <c>2017-07-08 07:36:23</c>
+              <c>$86.97</c>
+              <c>C627120F-2FC3-CA4D-2C3F-0F6D4251119E</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>C00A0111-C6F8-B296-B855-50BAAE937D54</c>
+            </r>
+            <r>
+              <c>Hardy, Linda Y.</c>
+              <c>1-600-703-4066</c>
+              <c>ante@condimentumegetvolutpat.co.uk</c>
+              <c>04/27/17</c>
+              <c>16340924-1274</c>
+              <c>10</c>
+              <c>774-6131 Nullam Avenue</c>
+              <c>San Francisco</c>
+              <c>96359</c>
+              <c>CA</c>
+              <c>-2.55305, 102.88883</c>
+              <c>Alexis Richards</c>
+              <c>2016-11-06 14:09:34</c>
+              <c>$14.68</c>
+              <c>D1F92601-FD17-1698-A744-7F1762A9C97A</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>91068B6E-310A-AEED-D206-61C09F137062</c>
+            </r>
+            <r>
+              <c>Fuentes, Macon Y.</c>
+              <c>1-313-684-3652</c>
+              <c>pede@ante.co.uk</c>
+              <c>01/20/17</c>
+              <c>16840512-6296</c>
+              <c>11</c>
+              <c>Ap #219-6877 Purus St.</c>
+              <c>Columbia</c>
+              <c>48136</c>
+              <c>MD</c>
+              <c>-58.97386, 116.1369</c>
+              <c>Simone Robbins</c>
+              <c>2016-10-26 12:57:40</c>
+              <c>$5.19</c>
+              <c>ACE4E70B-69A7-F3CC-B071-B21DE95E34AC</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>A3C321B3-DD4F-4388-2832-D289F4653FB5</c>
+            </r>
+            <r>
+              <c>Barry, Nehru R.</c>
+              <c>1-674-668-3196</c>
+              <c>felis.adipiscing.fringilla@diamDuis.co.uk</c>
+              <c>03/20/17</c>
+              <c>16790416-0038</c>
+              <c>12</c>
+              <c>Ap #943-8540 Ante Street</c>
+              <c>Memphis</c>
+              <c>93881</c>
+              <c>Tennessee</c>
+              <c>-87.34768, 160.59999</c>
+              <c>Nayda V. Santana</c>
+              <c>2017-06-04 07:22:51</c>
+              <c>$54.68</c>
+              <c>FDCCD252-E8DE-B771-CD3A-6216F8E33522</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>542A3EBC-1801-68FA-494D-5E0DFF0B3DE5</c>
+            </r>
+            <r>
+              <c>Greer, Felicia D.</c>
+              <c>1-375-425-2707</c>
+              <c>Vivamus.non@adipiscingnon.edu</c>
+              <c>04/18/17</c>
+              <c>16231009-6603</c>
+              <c>13</c>
+              <c>7723 Convallis Street</c>
+              <c>Phoenix</c>
+              <c>85818</c>
+              <c>AZ</c>
+              <c>9.74643, -169.73703</c>
+              <c>Ramona G. Travis</c>
+              <c>2017-09-23 08:34:51</c>
+              <c>$42.95</c>
+              <c>FC36EDD1-E78A-8348-C282-FE388E8AC64B</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>1F754C87-8D80-078E-EF6D-B8806AF74CC1</c>
+            </r>
+            <r>
+              <c>Walsh, Amal D.</c>
+              <c>1-562-348-2804</c>
+              <c>Nulla.eu@gravida.net</c>
+              <c>07/15/17</c>
+              <c>16790129-8401</c>
+              <c>14</c>
+              <c>Ap #633-3468 Justo Av.</c>
+              <c>Chandler</c>
+              <c>86668</c>
+              <c>AZ</c>
+              <c>72.07867, 40.06018</c>
+              <c>Erin Juarez</c>
+              <c>2018-05-15 21:43:12</c>
+              <c>$47.96</c>
+              <c>658CC1E1-D3F5-4278-9494-9A505F918429</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>226F690B-EBF7-0491-F603-30F7C89B5873</c>
+            </r>
+            <r>
+              <c>Bauer, Florence R.</c>
+              <c>1-535-829-0811</c>
+              <c>pharetra@urna.co.uk</c>
+              <c>02/12/17</c>
+              <c>16640705-9739</c>
+              <c>15</c>
+              <c>674-3428 Nullam Avenue</c>
+              <c>Grand Island</c>
+              <c>35664</c>
+              <c>Nebraska</c>
+              <c>-55.40948, -69.96361</c>
+              <c>Glenna Figueroa</c>
+              <c>2016-11-02 09:28:05</c>
+              <c>$2.57</c>
+              <c>03659098-AF53-DC58-DE79-F19A1254E90B</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>CD0BB0DB-F6FB-6CA3-9517-316E4DCCD245</c>
+            </r>
+            <r>
+              <c>Carney, Maggy Y.</c>
+              <c>1-514-209-7757</c>
+              <c>vel.convallis.in@inhendrerit.net</c>
+              <c>11/22/16</c>
+              <c>16160530-5695</c>
+              <c>16</c>
+              <c>4807 Elit. Avenue</c>
+              <c>Kansas City</c>
+              <c>86554</c>
+              <c>Kansas</c>
+              <c>-26.9365, 52.45951</c>
+              <c>Reese H. Pierce</c>
+              <c>2017-12-09 01:52:02</c>
+              <c>$33.88</c>
+              <c>51522D91-2949-758B-9593-E57505ECECD5</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>CDC72804-7835-4CEC-705D-D28A8113AC67</c>
+            </r>
+            <r>
+              <c>Wilkerson, Blaine S.</c>
+              <c>1-914-621-9702</c>
+              <c>erat@Praesent.edu</c>
+              <c>05/08/17</c>
+              <c>16220930-1577</c>
+              <c>17</c>
+              <c>P.O. Box 290, 727 Nulla Rd.</c>
+              <c>Warren</c>
+              <c>31885</c>
+              <c>MI</c>
+              <c>-36.85969, 42.66671</c>
+              <c>Colin P. Hunter</c>
+              <c>2016-06-17 03:06:35</c>
+              <c>$44.93</c>
+              <c>C1CAEAF1-F3A8-4EB7-7ECB-FA104BB31BC9</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>1300FA2C-E554-0B6F-307A-A45C636F0384</c>
+            </r>
+            <r>
+              <c>Perry, Quinn U.</c>
+              <c>1-182-772-3345</c>
+              <c>mi@imperdiet.co.uk</c>
+              <c>06/21/17</c>
+              <c>16700430-4114</c>
+              <c>18</c>
+              <c>Ap #559-8250 Scelerisque, Road</c>
+              <c>Portland</c>
+              <c>64840</c>
+              <c>Oregon</c>
+              <c>-87.87522, 14.13554</c>
+              <c>Cyrus Obrien</c>
+              <c>2017-07-29 05:53:22</c>
+              <c>$67.30</c>
+              <c>EB478028-C37B-F80E-985A-1A63E850D694</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>FB140329-1D32-3B05-9EA0-0896C3006719</c>
+            </r>
+            <r>
+              <c>Henderson, Henry C.</c>
+              <c>1-783-897-5419</c>
+              <c>Donec.dignissim.magna@diamdictum.org</c>
+              <c>03/11/17</c>
+              <c>16521002-0508</c>
+              <c>19</c>
+              <c>Ap #573-6353 Per Road</c>
+              <c>Houston</c>
+              <c>46575</c>
+              <c>Texas</c>
+              <c>-83.23164, 102.73226</c>
+              <c>Rama R. Le</c>
+              <c>2018-04-16 18:04:35</c>
+              <c>$5.95</c>
+              <c>84CF670A-C302-006A-FCA6-96D50C767B2B</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>823DA7CC-C8D2-A238-BE8D-97F75016AD17</c>
+            </r>
+            <r>
+              <c>Jarvis, Laura B.</c>
+              <c>1-450-912-0048</c>
+              <c>pharetra@elitpretiumet.edu</c>
+              <c>08/10/16</c>
+              <c>16471015-6763</c>
+              <c>20</c>
+              <c>860-1233 Accumsan St.</c>
+              <c>Broken Arrow</c>
+              <c>26400</c>
+              <c>Oklahoma</c>
+              <c>-75.94079, 74.00016</c>
+              <c>Zeph Z. Carrillo</c>
+              <c>2017-07-11 08:32:50</c>
+              <c>$37.11</c>
+              <c>A21C3A4A-EAB3-FEBC-D8A0-258C77963401</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>D9601760-EA15-7D9A-1CA3-5853CC26278D</c>
+            </r>
+            <r>
+              <c>Ballard, Kim J.</c>
+              <c>1-802-308-7520</c>
+              <c>tellus.Phasellus@pedeetrisus.org</c>
+              <c>09/18/16</c>
+              <c>16081113-5045</c>
+              <c>21</c>
+              <c>Ap #255-7157 A St.</c>
+              <c>Boston</c>
+              <c>18016</c>
+              <c>MA</c>
+              <c>-23.71513, -29.61663</c>
+              <c>Isaiah Long</c>
+              <c>2018-05-31 19:04:14</c>
+              <c>$89.16</c>
+              <c>0C54F0FF-75E0-FB97-0D03-0247C11F1A22</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>95164800-51B0-1E7D-5D6D-E4CED13DA2A5</c>
+            </r>
+            <r>
+              <c>Shepard, Aileen J.</c>
+              <c>1-601-255-0329</c>
+              <c>posuere.vulputate.lacus@Namnulla.co.uk</c>
+              <c>07/20/16</c>
+              <c>16171220-2074</c>
+              <c>22</c>
+              <c>595-8229 Sodales Ave</c>
+              <c>Jacksonville</c>
+              <c>49613</c>
+              <c>FL</c>
+              <c>79.88903, -177.47719</c>
+              <c>Pandora Burgess</c>
+              <c>2016-12-21 21:55:43</c>
+              <c>$64.96</c>
+              <c>FFA15365-AEA1-4587-75EA-D3184093EBBE</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>39CB6410-375A-9FFE-D4AC-28403BBC41EE</c>
+            </r>
+            <r>
+              <c>Hampton, Igor K.</c>
+              <c>1-552-862-8873</c>
+              <c>mollis.dui@mifelis.edu</c>
+              <c>06/17/16</c>
+              <c>16860903-7141</c>
+              <c>23</c>
+              <c>Ap #893-7856 Integer Rd.</c>
+              <c>New Orleans</c>
+              <c>99717</c>
+              <c>LA</c>
+              <c>-43.33096, 107.29491</c>
+              <c>Rhona Mayo</c>
+              <c>2016-09-29 18:12:48</c>
+              <c>$28.28</c>
+              <c>C343677B-A563-BC0C-04B1-6A50B5E76274</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>FE992ACB-0071-CDE1-11AE-BBDF4497EB73</c>
+            </r>
+            <r>
+              <c>Taylor, Deanna F.</c>
+              <c>1-400-437-7361</c>
+              <c>In.scelerisque@vitaeerat.org</c>
+              <c>06/07/17</c>
+              <c>16861023-5262</c>
+              <c>24</c>
+              <c>225-4555 Fringilla St.</c>
+              <c>Lawton</c>
+              <c>22761</c>
+              <c>Oklahoma</c>
+              <c>-70.16724, -106.71234</c>
+              <c>Wylie Mcmahon</c>
+              <c>2017-10-21 22:32:17</c>
+              <c>$50.41</c>
+              <c>2262CB2A-3F3D-0C98-1C15-557F09D7DC7E</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>280E6C77-D123-F0CC-7F1A-A5CD5E1AB650</c>
+            </r>
+            <r>
+              <c>Sellers, Carl V.</c>
+              <c>1-386-423-9477</c>
+              <c>at.auctor.ullamcorper@parturientmontesnascetur.co.uk</c>
+              <c>01/29/17</c>
+              <c>16210124-9346</c>
+              <c>25</c>
+              <c>Ap #202-8086 Diam. Rd.</c>
+              <c>Laramie</c>
+              <c>76990</c>
+              <c>WY</c>
+              <c>12.25142, 47.931</c>
+              <c>Wallace Nguyen</c>
+              <c>2017-11-28 02:31:52</c>
+              <c>$25.35</c>
+              <c>F392603A-C413-FC8B-00C8-BC3E0F999BF8</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>AD9C1A5C-1DF0-B932-1DAD-5BF47CDA0D9D</c>
+            </r>
+            <r>
+              <c>Cox, Jescie L.</c>
+              <c>1-627-421-4179</c>
+              <c>hendrerit@rhoncus.co.uk</c>
+              <c>04/17/17</c>
+              <c>16450124-7789</c>
+              <c>26</c>
+              <c>260-244 Suscipit Avenue</c>
+              <c>Essex</c>
+              <c>28179</c>
+              <c>VT</c>
+              <c>17.22159, 8.01578</c>
+              <c>Shana Merrill</c>
+              <c>2018-01-16 19:09:09</c>
+              <c>$39.73</c>
+              <c>39861379-6EAB-A78F-6529-0DADAA0FB96F</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>A7FB4C6D-F1DF-69B5-B323-E53621CD9864</c>
+            </r>
+            <r>
+              <c>Small, Ursula I.</c>
+              <c>1-783-217-8537</c>
+              <c>euismod.urna.Nullam@laciniaSedcongue.co.uk</c>
+              <c>03/28/17</c>
+              <c>16820606-4779</c>
+              <c>27</c>
+              <c>P.O. Box 827, 7818 Aliquam Ave</c>
+              <c>Pike Creek</c>
+              <c>15408</c>
+              <c>Delaware</c>
+              <c>76.84838, 4.04657</c>
+              <c>Cameron Y. Bowen</c>
+              <c>2016-10-27 13:21:30</c>
+              <c>$72.38</c>
+              <c>9D2CE02D-AA65-C98A-C8CE-B50F0E221DDA</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>66E1D3EC-5A28-B032-B0FD-29BB43CC1FD4</c>
+            </r>
+            <r>
+              <c>Hobbs, Ashton S.</c>
+              <c>1-383-915-5144</c>
+              <c>nunc.In.at@turpisegestas.edu</c>
+              <c>11/16/16</c>
+              <c>16731217-1379</c>
+              <c>28</c>
+              <c>Ap #268-9609 Ut, Avenue</c>
+              <c>Pocatello</c>
+              <c>60172</c>
+              <c>ID</c>
+              <c>-82.21694, 100.62598</c>
+              <c>Marvin Aguilar</c>
+              <c>2016-11-27 09:02:07</c>
+              <c>$72.48</c>
+              <c>C69A1908-BB49-1DCD-0896-F5EF8ABCF889</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>154C953C-70B0-1BA8-FB9D-A228B36B8AB0</c>
+            </r>
+            <r>
+              <c>Oneill, Hayes E.</c>
+              <c>1-800-591-3534</c>
+              <c>molestie@ut.ca</c>
+              <c>08/24/16</c>
+              <c>16760819-0414</c>
+              <c>29</c>
+              <c>P.O. Box 703, 1243 Mollis. Avenue</c>
+              <c>Springfield</c>
+              <c>34862</c>
+              <c>MA</c>
+              <c>-31.38631, -93.16916</c>
+              <c>Micah Duncan</c>
+              <c>2017-10-27 07:39:07</c>
+              <c>$1.61</c>
+              <c>097E8579-964B-11C2-F171-5D785AAA95D4</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>AB5567C6-5F14-F917-7F22-C9F84164CD2F</c>
+            </r>
+            <r>
+              <c>Jordan, Sydney M.</c>
+              <c>1-282-440-0399</c>
+              <c>Fusce@Crasegetnisi.co.uk</c>
+              <c>02/01/17</c>
+              <c>16430912-7175</c>
+              <c>30</c>
+              <c>Ap #514-4872 Sodales Street</c>
+              <c>Fort Smith</c>
+              <c>71789</c>
+              <c>Arkansas</c>
+              <c>-46.57148, -110.02344</c>
+              <c>Brenda Kim</c>
+              <c>2017-01-22 04:26:16</c>
+              <c>$74.79</c>
+              <c>A0F37DCA-8B0E-ACE6-322B-3DFC9C41F811</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>99D6254B-8168-B997-94AC-F9C2286174B4</c>
+            </r>
+            <r>
+              <c>Kramer, Warren C.</c>
+              <c>1-597-194-5638</c>
+              <c>mollis@nequeIn.org</c>
+              <c>11/24/16</c>
+              <c>16970606-0101</c>
+              <c>31</c>
+              <c>Ap #411-4477 Enim, Rd.</c>
+              <c>Boston</c>
+              <c>94215</c>
+              <c>Massachusetts</c>
+              <c>-51.72005, 68.83455</c>
+              <c>Velma Velasquez</c>
+              <c>2016-12-24 03:07:44</c>
+              <c>$45.34</c>
+              <c>4146AE19-45EF-590A-99B2-647471364130</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>D0DBF8F4-A166-D7AF-19BE-3F7EAB074166</c>
+            </r>
+            <r>
+              <c>Goodwin, Brennan U.</c>
+              <c>1-378-984-7235</c>
+              <c>augue.malesuada@netusetmalesuada.com</c>
+              <c>04/20/17</c>
+              <c>16000517-7373</c>
+              <c>32</c>
+              <c>P.O. Box 514, 4094 Egestas. Rd.</c>
+              <c>Salem</c>
+              <c>41912</c>
+              <c>OR</c>
+              <c>30.46608, 74.58837</c>
+              <c>Iris Downs</c>
+              <c>2016-07-06 09:08:46</c>
+              <c>$5.57</c>
+              <c>4B729988-9D7B-9F7D-E864-4CCDE59DB3B1</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>31FB065E-6429-FA32-01C6-8B252CE1FDF9</c>
+            </r>
+            <r>
+              <c>Moses, Blossom W.</c>
+              <c>1-724-466-7138</c>
+              <c>orci.consectetuer.euismod@eratneque.co.uk</c>
+              <c>10/06/16</c>
+              <c>16980409-9803</c>
+              <c>33</c>
+              <c>Ap #911-6300 Consequat Road</c>
+              <c>Olathe</c>
+              <c>70825</c>
+              <c>KS</c>
+              <c>71.69575, -136.54156</c>
+              <c>Kylie Maynard</c>
+              <c>2017-08-20 20:44:51</c>
+              <c>$54.49</c>
+              <c>B49A14C7-621C-4DCE-3EF4-40C783A21748</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>182C877A-CBD6-CBBD-1323-3BC74948725B</c>
+            </r>
+            <r>
+              <c>Ellison, Teegan B.</c>
+              <c>1-455-959-9746</c>
+              <c>nibh.lacinia.orci@a.co.uk</c>
+              <c>11/30/16</c>
+              <c>16801227-0289</c>
+              <c>34</c>
+              <c>776-6092 Ut Av.</c>
+              <c>Detroit</c>
+              <c>61649</c>
+              <c>Michigan</c>
+              <c>76.86409, -42.97603</c>
+              <c>Daquan K. Maxwell</c>
+              <c>2018-03-26 03:57:01</c>
+              <c>$3.23</c>
+              <c>3999CBF0-6B5F-322E-5BC7-F8823AD5CFB6</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>487A51EA-EE05-BC71-E17B-B9077C789A14</c>
+            </r>
+            <r>
+              <c>Acevedo, Noah J.</c>
+              <c>1-563-918-3155</c>
+              <c>est@augue.co.uk</c>
+              <c>10/28/16</c>
+              <c>16281218-2315</c>
+              <c>35</c>
+              <c>Ap #492-1934 Non, Ave</c>
+              <c>South Portland</c>
+              <c>89626</c>
+              <c>ME</c>
+              <c>73.25164, -4.41696</c>
+              <c>Wylie N. Barrett</c>
+              <c>2016-10-12 19:08:34</c>
+              <c>$25.33</c>
+              <c>625CCDEB-B70F-F1CE-BD5E-FFAE9683CD6C</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>96B191FB-6D48-FB03-F108-0B056AB39C83</c>
+            </r>
+            <r>
+              <c>Whitehead, Beatrice M.</c>
+              <c>1-513-297-3439</c>
+              <c>dui.in.sodales@laoreetipsumCurabitur.net</c>
+              <c>11/28/16</c>
+              <c>16491007-1333</c>
+              <c>36</c>
+              <c>Ap #111-1251 Ante Ave</c>
+              <c>Grand Island</c>
+              <c>52885</c>
+              <c>NE</c>
+              <c>11.55657, 33.1043</c>
+              <c>Harriet O. Mitchell</c>
+              <c>2016-07-03 20:29:54</c>
+              <c>$10.82</c>
+              <c>1192DBD5-4A12-BC3B-2255-ABE4F7C9A7E0</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>BD7F606E-1D71-04FA-0E61-6367FE6F26F2</c>
+            </r>
+            <r>
+              <c>Clements, Brielle R.</c>
+              <c>1-897-322-2039</c>
+              <c>non@Donecvitaeerat.co.uk</c>
+              <c>12/12/16</c>
+              <c>16160327-0461</c>
+              <c>37</c>
+              <c>P.O. Box 193, 8247 Magna St.</c>
+              <c>Reading</c>
+              <c>90470</c>
+              <c>Pennsylvania</c>
+              <c>18.89149, -51.68154</c>
+              <c>Zane Mccray</c>
+              <c>2017-05-18 02:20:07</c>
+              <c>$41.45</c>
+              <c>B8028A1A-70F7-A572-5478-0F5E13DFB8FC</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>286652D4-A954-7391-469D-C10682C24FF1</c>
+            </r>
+            <r>
+              <c>Frazier, Demetria P.</c>
+              <c>1-999-727-2838</c>
+              <c>quis@libero.ca</c>
+              <c>01/26/17</c>
+              <c>16971015-2506</c>
+              <c>38</c>
+              <c>6335 Sed Ave</c>
+              <c>Montgomery</c>
+              <c>36522</c>
+              <c>Alabama</c>
+              <c>-50.22941, 26.44178</c>
+              <c>Nola Harper</c>
+              <c>2016-08-01 23:14:18</c>
+              <c>$81.88</c>
+              <c>3789ADC3-E450-FE95-4D86-8B960AD0BC4C</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>40231754-91E5-2EA4-31D3-8F4779F36148</c>
+            </r>
+            <r>
+              <c>Henry, Serina I.</c>
+              <c>1-412-919-7570</c>
+              <c>Mauris.blandit.enim@Sed.com</c>
+              <c>07/24/17</c>
+              <c>16480528-7911</c>
+              <c>39</c>
+              <c>Ap #504-6883 Nec, Rd.</c>
+              <c>Salt Lake City</c>
+              <c>86791</c>
+              <c>Utah</c>
+              <c>-54.15121, -33.50639</c>
+              <c>Adrian Holmes</c>
+              <c>2016-12-04 05:31:08</c>
+              <c>$66.96</c>
+              <c>01B3406E-A9BA-EFF5-613C-6FC23DC0417A</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>F6E655E8-DD3B-A2FE-5C7C-946B5A7974B6</c>
+            </r>
+            <r>
+              <c>Humphrey, Tiger W.</c>
+              <c>1-680-440-7935</c>
+              <c>rutrum.magna.Cras@odiotristiquepharetra.org</c>
+              <c>07/03/17</c>
+              <c>16391117-7214</c>
+              <c>40</c>
+              <c>6129 Risus. Av.</c>
+              <c>Jackson</c>
+              <c>53286</c>
+              <c>MS</c>
+              <c>-2.35242, -51.74584</c>
+              <c>Tara Acosta</c>
+              <c>2016-11-19 22:38:43</c>
+              <c>$45.36</c>
+              <c>51544FCD-68D4-2399-162B-807D47596AB7</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>8DCC44E8-FBE2-0F8D-85A3-CF64FE930A25</c>
+            </r>
+            <r>
+              <c>Pennington, Martina W.</c>
+              <c>1-645-500-8929</c>
+              <c>Fusce.dolor@aliquetmolestietellus.org</c>
+              <c>09/02/16</c>
+              <c>16531130-0304</c>
+              <c>41</c>
+              <c>P.O. Box 642, 1202 Non Road</c>
+              <c>Seattle</c>
+              <c>75019</c>
+              <c>WA</c>
+              <c>-2.90246, 126.90556</c>
+              <c>Sydney X. Crane</c>
+              <c>2018-04-08 09:19:14</c>
+              <c>$68.78</c>
+              <c>6C655E45-94B6-076D-2D19-1092641D0243</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>877AC451-E468-7680-5AEC-498AD0BFCC06</c>
+            </r>
+            <r>
+              <c>Kerr, Mark T.</c>
+              <c>1-964-482-8067</c>
+              <c>Donec.at@justoProinnon.co.uk</c>
+              <c>01/07/17</c>
+              <c>16190912-7258</c>
+              <c>42</c>
+              <c>6924 Sodales Rd.</c>
+              <c>St. Petersburg</c>
+              <c>34546</c>
+              <c>FL</c>
+              <c>-81.28331, 164.41371</c>
+              <c>Henry Downs</c>
+              <c>2016-09-21 06:16:11</c>
+              <c>$28.79</c>
+              <c>21748D93-9CC9-72BE-0EFA-972D032F496D</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>5D8934B9-B289-3128-E472-D76738F17FCE</c>
+            </r>
+            <r>
+              <c>Harmon, Guy T.</c>
+              <c>1-823-260-1146</c>
+              <c>ante.dictum.mi@etnunc.edu</c>
+              <c>05/10/17</c>
+              <c>16810404-1895</c>
+              <c>43</c>
+              <c>P.O. Box 147, 4815 Phasellus Av.</c>
+              <c>Bellevue</c>
+              <c>13633</c>
+              <c>NE</c>
+              <c>-81.99284, -160.11329</c>
+              <c>Shay H. Spence</c>
+              <c>2017-11-04 08:30:36</c>
+              <c>$17.07</c>
+              <c>30D3A439-6701-8C34-9C94-562A99E2483A</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>B0D4849C-4BE1-7E1A-1FEB-2F3EBF4AAAFB</c>
+            </r>
+            <r>
+              <c>Sharpe, Leilani I.</c>
+              <c>1-650-386-8508</c>
+              <c>risus.Donec.egestas@orcisem.com</c>
+              <c>09/04/16</c>
+              <c>16731222-3337</c>
+              <c>44</c>
+              <c>Ap #177-9495 Vel, Ave</c>
+              <c>Clarksville</c>
+              <c>52221</c>
+              <c>TN</c>
+              <c>72.28644, -73.46356</c>
+              <c>Mariko Valenzuela</c>
+              <c>2017-01-14 02:58:40</c>
+              <c>$50.36</c>
+              <c>F988D312-7B50-D0DD-8EA8-86C59FC5D533</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>834BD768-35BB-476D-EDCB-A5B4F3DD3143</c>
+            </r>
+            <r>
+              <c>Castillo, Fleur W.</c>
+              <c>1-305-942-6123</c>
+              <c>adipiscing.ligula.Aenean@eutemporerat.net</c>
+              <c>09/06/16</c>
+              <c>16100313-2436</c>
+              <c>45</c>
+              <c>5144 Est. Avenue</c>
+              <c>Anchorage</c>
+              <c>99523</c>
+              <c>Alaska</c>
+              <c>-45.90028, -58.08836</c>
+              <c>Drake U. Logan</c>
+              <c>2016-12-24 21:55:55</c>
+              <c>$59.51</c>
+              <c>17CF79FA-FB00-6AC4-9709-7F37783D8882</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>1CBEAF21-1E17-0EC7-3CD4-7E026BA3B2DB</c>
+            </r>
+            <r>
+              <c>Potts, Hedley X.</c>
+              <c>1-261-957-5232</c>
+              <c>vitae@et.org</c>
+              <c>09/02/16</c>
+              <c>16200906-8889</c>
+              <c>46</c>
+              <c>P.O. Box 242, 3726 Mauris St.</c>
+              <c>Bellevue</c>
+              <c>63897</c>
+              <c>Washington</c>
+              <c>72.66616, 179.7461</c>
+              <c>Anastasia Preston</c>
+              <c>2018-03-21 17:51:25</c>
+              <c>$77.97</c>
+              <c>D931335A-DA34-7E9E-6A84-EB5D6914BC67</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>F934ED3A-B017-1287-515C-45CB9D65624F</c>
+            </r>
+            <r>
+              <c>Weaver, Melanie F.</c>
+              <c>1-140-418-5194</c>
+              <c>gravida.sagittis.Duis@Phasellus.edu</c>
+              <c>10/02/16</c>
+              <c>16471227-5280</c>
+              <c>47</c>
+              <c>292-1530 Litora Ave</c>
+              <c>Gulfport</c>
+              <c>86434</c>
+              <c>Mississippi</c>
+              <c>-56.67755, 111.0823</c>
+              <c>Tyler X. Graham</c>
+              <c>2017-04-25 07:52:43</c>
+              <c>$54.36</c>
+              <c>F0D73B28-058A-8CA1-DE8E-F5B6C105AB44</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>B44DCCBD-28B3-FE70-4F4A-3CA106F53DD2</c>
+            </r>
+            <r>
+              <c>Haley, Susan P.</c>
+              <c>1-917-839-6186</c>
+              <c>amet@Curabitur.ca</c>
+              <c>11/18/16</c>
+              <c>16340113-3016</c>
+              <c>48</c>
+              <c>P.O. Box 570, 9146 Et Rd.</c>
+              <c>Idaho Falls</c>
+              <c>55282</c>
+              <c>Idaho</c>
+              <c>39.33094, 91.79489</c>
+              <c>Emerson G. Vinson</c>
+              <c>2018-05-23 18:58:29</c>
+              <c>$19.39</c>
+              <c>2DAAF497-ECC3-7A03-D5FC-098D3486A7B0</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>961C1609-CC67-F450-B037-5D6BCB57FC5D</c>
+            </r>
+            <r>
+              <c>Bryan, Amery N.</c>
+              <c>1-178-125-5241</c>
+              <c>eu@magnaet.ca</c>
+              <c>03/10/17</c>
+              <c>16150513-5606</c>
+              <c>49</c>
+              <c>417 Duis Avenue</c>
+              <c>South Bend</c>
+              <c>33426</c>
+              <c>Indiana</c>
+              <c>-79.45302, 44.15362</c>
+              <c>Bernard Rasmussen</c>
+              <c>2017-11-07 02:18:01</c>
+              <c>$1.09</c>
+              <c>8DEBF361-4588-6801-964C-BE0026EEBC07</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>F2A92C38-1FB1-2101-3A25-37B54E41B88E</c>
+            </r>
+            <r>
+              <c>Estrada, Kennedy T.</c>
+              <c>1-155-870-9335</c>
+              <c>elit.Nulla@urnasuscipit.edu</c>
+              <c>07/22/16</c>
+              <c>16320222-7199</c>
+              <c>50</c>
+              <c>P.O. Box 229, 3682 Nunc Street</c>
+              <c>San Francisco</c>
+              <c>96140</c>
+              <c>CA</c>
+              <c>83.51147, -77.52906</c>
+              <c>Hamilton Q. Harper</c>
+              <c>2016-10-07 21:57:48</c>
+              <c>$22.37</c>
+              <c>D766E6E6-9277-D98C-8A20-230CAD9FFAD5</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>B00D9A4B-FD90-844F-77BB-E5FDC0536D3F</c>
+            </r>
+            <r>
+              <c>Byrd, Ayanna Q.</c>
+              <c>1-627-180-4097</c>
+              <c>sagittis.lobortis.mauris@Aliquamgravidamauris.co.uk</c>
+              <c>03/30/17</c>
+              <c>16980119-1645</c>
+              <c>51</c>
+              <c>563-6605 Cum Ave</c>
+              <c>Newark</c>
+              <c>68326</c>
+              <c>DE</c>
+              <c>-73.65094, 132.57803</c>
+              <c>Elvis B. Vazquez</c>
+              <c>2017-06-02 01:39:52</c>
+              <c>$69.98</c>
+              <c>DB788A32-D70F-03A5-C4AA-084EA936A2E9</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>F82E0F6D-8E2E-9853-BEE3-677D9C9FE522</c>
+            </r>
+            <r>
+              <c>Medina, Buckminster R.</c>
+              <c>1-670-230-2936</c>
+              <c>morbi@fringillapurusmauris.co.uk</c>
+              <c>12/16/16</c>
+              <c>16510719-1388</c>
+              <c>52</c>
+              <c>5518 Nisi St.</c>
+              <c>Aurora</c>
+              <c>82333</c>
+              <c>Illinois</c>
+              <c>-9.86338, -179.70665</c>
+              <c>Wyatt O. Wells</c>
+              <c>2017-04-13 18:17:12</c>
+              <c>$80.29</c>
+              <c>7EEE5871-7A62-1CA3-FB3D-DBD495D88B9F</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>84E20CD5-ED54-F388-9ECD-2727587A338B</c>
+            </r>
+            <r>
+              <c>West, Idola X.</c>
+              <c>1-672-361-0307</c>
+              <c>dolor.quam.elementum@vel.edu</c>
+              <c>08/15/16</c>
+              <c>16980609-2947</c>
+              <c>53</c>
+              <c>8521 Arcu St.</c>
+              <c>Hartford</c>
+              <c>34588</c>
+              <c>CT</c>
+              <c>6.72291, -92.47633</c>
+              <c>Marah E. Poole</c>
+              <c>2017-10-18 09:20:57</c>
+              <c>$43.53</c>
+              <c>BC9D88EA-7629-5BC9-B97A-044329480C94</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>F79F63E2-A6B4-661C-C5C3-16730D0A0B19</c>
+            </r>
+            <r>
+              <c>Mcdaniel, Randall C.</c>
+              <c>1-515-986-5204</c>
+              <c>ac.libero@laoreet.org</c>
+              <c>09/16/16</c>
+              <c>16020902-6111</c>
+              <c>54</c>
+              <c>4832 Erat. Rd.</c>
+              <c>Sandy</c>
+              <c>79701</c>
+              <c>Utah</c>
+              <c>-21.17906, 106.96577</c>
+              <c>Yoshi George</c>
+              <c>2017-06-29 23:40:02</c>
+              <c>$5.37</c>
+              <c>C75C7D5D-67A7-893D-E7FA-1496AA24DD3D</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>83468B50-6E58-9A92-87C8-CCC23918E5CC</c>
+            </r>
+            <r>
+              <c>Serrano, Garrett G.</c>
+              <c>1-807-880-3529</c>
+              <c>neque.Nullam@quamquisdiam.org</c>
+              <c>07/09/17</c>
+              <c>16990421-5002</c>
+              <c>55</c>
+              <c>994-4615 Nisi Rd.</c>
+              <c>Carson City</c>
+              <c>91480</c>
+              <c>NV</c>
+              <c>36.05263, -119.49715</c>
+              <c>Gemma Wright</c>
+              <c>2017-12-17 04:50:03</c>
+              <c>$74.07</c>
+              <c>8FCC7CA1-F53C-1BD2-9185-EEE14CD50CEF</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>8AC46175-A41E-8F82-E94B-E9ED4FFEA521</c>
+            </r>
+            <r>
+              <c>Mclaughlin, Dante T.</c>
+              <c>1-863-720-6757</c>
+              <c>dui.in@nisidictum.org</c>
+              <c>05/16/17</c>
+              <c>16220725-1832</c>
+              <c>56</c>
+              <c>Ap #668-9930 Morbi Street</c>
+              <c>Rockville</c>
+              <c>63242</c>
+              <c>MD</c>
+              <c>39.01743, 164.69404</c>
+              <c>Lenore Adkins</c>
+              <c>2017-04-16 04:53:50</c>
+              <c>$66.94</c>
+              <c>EE8227F5-94C4-EEDF-100B-56D3A0893219</c>
+              <c>Voucher</c>
+              <c>Electronics</c>
+              <c>F94D57CD-0CBA-867D-F07C-90092B4898D0</c>
+            </r>
+            <r>
+              <c>Collier, Olga C.</c>
+              <c>1-544-273-6029</c>
+              <c>malesuada@Morbi.org</c>
+              <c>08/26/16</c>
+              <c>16340101-3101</c>
+              <c>57</c>
+              <c>P.O. Box 639, 3676 Tellus. Ave</c>
+              <c>Pocatello</c>
+              <c>74708</c>
+              <c>Idaho</c>
+              <c>-83.52079, 116.28421</c>
+              <c>Celeste Taylor</c>
+              <c>2017-07-08 06:08:06</c>
+              <c>$46.23</c>
+              <c>392508B6-4916-9A64-0884-5BF3C219F92D</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>87D75E17-7A5A-D17C-A612-5D51FDA653FD</c>
+            </r>
+            <r>
+              <c>Reid, Delilah Y.</c>
+              <c>1-524-514-6689</c>
+              <c>nibh@vitae.com</c>
+              <c>04/26/17</c>
+              <c>16270317-4660</c>
+              <c>58</c>
+              <c>698 Et Road</c>
+              <c>New Orleans</c>
+              <c>54252</c>
+              <c>Louisiana</c>
+              <c>50.02367, -44.77946</c>
+              <c>Geoffrey Armstrong</c>
+              <c>2016-08-24 08:25:31</c>
+              <c>$80.52</c>
+              <c>0BC91154-56D1-0A42-F9DE-972CE20ADDCC</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>771EA5A9-548F-9F00-A60F-D002EBA38429</c>
+            </r>
+            <r>
+              <c>Zimmerman, Brynne L.</c>
+              <c>1-245-557-7002</c>
+              <c>vulputate@Nunccommodo.co.uk</c>
+              <c>09/25/16</c>
+              <c>16321225-1692</c>
+              <c>59</c>
+              <c>Ap #555-4965 Et Rd.</c>
+              <c>Harrisburg</c>
+              <c>28392</c>
+              <c>PA</c>
+              <c>22.41142, -23.8511</c>
+              <c>Macey Mendoza</c>
+              <c>2016-11-01 09:49:36</c>
+              <c>$33.58</c>
+              <c>EB5C3B7E-B3A0-8B4A-0947-95BCFBFB694F</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>0749371B-D4F8-4505-68A5-0132B8971F95</c>
+            </r>
+            <r>
+              <c>Hogan, Vivien V.</c>
+              <c>1-253-613-3320</c>
+              <c>mauris.sit@aenimSuspendisse.com</c>
+              <c>07/11/17</c>
+              <c>16550114-5725</c>
+              <c>60</c>
+              <c>646-9700 Aliquet Street</c>
+              <c>Rock Springs</c>
+              <c>85384</c>
+              <c>WY</c>
+              <c>-85.55454, -102.09736</c>
+              <c>Leila V. Ross</c>
+              <c>2017-02-06 08:07:29</c>
+              <c>$41.20</c>
+              <c>F08D1AD8-72DE-93BA-0539-20730FADB3A3</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>ECB325BE-F3BF-4033-D325-070640594B62</c>
+            </r>
+            <r>
+              <c>Horton, Anthony S.</c>
+              <c>1-889-498-0347</c>
+              <c>Class.aptent.taciti@adui.ca</c>
+              <c>01/22/17</c>
+              <c>16910404-0085</c>
+              <c>61</c>
+              <c>6687 Eu Ave</c>
+              <c>Waterbury</c>
+              <c>51370</c>
+              <c>Connecticut</c>
+              <c>42.45491, 78.10346</c>
+              <c>Odessa Rivera</c>
+              <c>2017-03-12 17:49:05</c>
+              <c>$73.20</c>
+              <c>23D78B6D-27CB-D099-830D-01805F3D585F</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>02717E44-8826-510A-F754-8F3E4569035D</c>
+            </r>
+            <r>
+              <c>Drake, Oscar R.</c>
+              <c>1-366-425-0118</c>
+              <c>Suspendisse.eleifend.Cras@ipsumPhasellusvitae.ca</c>
+              <c>07/24/17</c>
+              <c>16450929-9774</c>
+              <c>62</c>
+              <c>P.O. Box 965, 5947 Arcu. Ave</c>
+              <c>Minneapolis</c>
+              <c>22060</c>
+              <c>Minnesota</c>
+              <c>-37.33635, -66.04921</c>
+              <c>Kiayada C. Hendrix</c>
+              <c>2017-05-14 09:38:06</c>
+              <c>$5.95</c>
+              <c>05038AF7-84CA-3C61-4D0E-61D92E04116C</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>C5821193-B724-2AB0-0205-3855617CADA3</c>
+            </r>
+            <r>
+              <c>West, Minerva I.</c>
+              <c>1-160-115-6352</c>
+              <c>Nunc.ac@pharetra.ca</c>
+              <c>06/07/17</c>
+              <c>16950427-6438</c>
+              <c>63</c>
+              <c>P.O. Box 305, 5816 Natoque St.</c>
+              <c>Des Moines</c>
+              <c>62090</c>
+              <c>Iowa</c>
+              <c>-58.71845, 102.63537</c>
+              <c>Hope Y. Burnett</c>
+              <c>2018-05-10 04:21:33</c>
+              <c>$13.87</c>
+              <c>5CCEADC8-AA5C-E527-47FC-25EC918E9644</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>1DA2709F-76CA-AACC-4FDE-D5C364511959</c>
+            </r>
+            <r>
+              <c>Hammond, Acton C.</c>
+              <c>1-126-968-6932</c>
+              <c>luctus.Curabitur.egestas@iaculisenim.ca</c>
+              <c>06/18/17</c>
+              <c>16780206-4621</c>
+              <c>64</c>
+              <c>P.O. Box 888, 9517 Eu, Rd.</c>
+              <c>Carson City</c>
+              <c>70008</c>
+              <c>Nevada</c>
+              <c>-7.90794, 41.43551</c>
+              <c>Ezra N. Boone</c>
+              <c>2018-05-06 02:28:23</c>
+              <c>$67.44</c>
+              <c>AB19ECA1-B984-C571-6443-F60733CA1AA5</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>63177BFF-973F-CD9F-D2AA-A80A22BEACA9</c>
+            </r>
+            <r>
+              <c>Moses, Michelle W.</c>
+              <c>1-409-971-0060</c>
+              <c>mauris@amagnaLorem.com</c>
+              <c>07/05/16</c>
+              <c>16080207-8840</c>
+              <c>65</c>
+              <c>311-7957 Magna. St.</c>
+              <c>Broken Arrow</c>
+              <c>16376</c>
+              <c>Oklahoma</c>
+              <c>-55.66942, 53.1623</c>
+              <c>Theodore S. Wagner</c>
+              <c>2018-04-11 08:04:46</c>
+              <c>$61.06</c>
+              <c>4BE8FFBD-F751-21DF-CE6F-22A41A99FC4A</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>A7B7EF62-9509-583C-DD32-A9853E4B24A4</c>
+            </r>
+            <r>
+              <c>Sellers, Wynne M.</c>
+              <c>1-599-657-7657</c>
+              <c>id.ante@non.co.uk</c>
+              <c>06/11/17</c>
+              <c>16651018-0745</c>
+              <c>66</c>
+              <c>275-9578 Luctus Street</c>
+              <c>St. Petersburg</c>
+              <c>93905</c>
+              <c>FL</c>
+              <c>62.2011, 0.33329</c>
+              <c>Benedict Hooper</c>
+              <c>2017-03-24 21:04:34</c>
+              <c>$26.64</c>
+              <c>B772D766-CB7A-14F4-2794-31B596AF751A</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>284D85BF-526A-F31C-D9AF-4F6DD313BBB2</c>
+            </r>
+            <r>
+              <c>Adkins, Lee Q.</c>
+              <c>1-163-576-1725</c>
+              <c>neque.Nullam@accumsanconvallis.net</c>
+              <c>07/21/17</c>
+              <c>16920518-6217</c>
+              <c>67</c>
+              <c>Ap #519-1522 Donec St.</c>
+              <c>Phoenix</c>
+              <c>86993</c>
+              <c>Arizona</c>
+              <c>-86.90579, -122.05105</c>
+              <c>Alan Chambers</c>
+              <c>2017-05-15 19:23:34</c>
+              <c>$39.72</c>
+              <c>B1935985-0D75-C7CD-C0B4-3DF1DADD9473</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>D09B484C-F4F8-AD98-7153-15A2548F9729</c>
+            </r>
+            <r>
+              <c>Juarez, Mohammad B.</c>
+              <c>1-766-693-7201</c>
+              <c>nunc@Nunc.co.uk</c>
+              <c>03/16/17</c>
+              <c>16930108-0777</c>
+              <c>68</c>
+              <c>582-318 Laoreet St.</c>
+              <c>Houston</c>
+              <c>81898</c>
+              <c>TX</c>
+              <c>62.60678, -82.87484</c>
+              <c>Blake T. Nielsen</c>
+              <c>2017-09-30 06:13:12</c>
+              <c>$86.63</c>
+              <c>AEF895EB-945B-C7B6-238A-AC04F996AFCB</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>A3396CC5-7B59-33DF-B1C6-B01A3CE05AC2</c>
+            </r>
+            <r>
+              <c>Barrett, Curran I.</c>
+              <c>1-453-347-1967</c>
+              <c>erat.Etiam.vestibulum@malesuada.edu</c>
+              <c>01/08/17</c>
+              <c>16620801-9148</c>
+              <c>69</c>
+              <c>3256 Commodo Road</c>
+              <c>Montpelier</c>
+              <c>88372</c>
+              <c>Vermont</c>
+              <c>63.96509, 146.48107</c>
+              <c>Jana Stone</c>
+              <c>2016-11-02 16:12:21</c>
+              <c>$77.17</c>
+              <c>C63F2762-48A7-0CFC-2BDB-5992D215D81E</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>BE36BB20-81FE-DCFC-81BF-7F4E5E492E4F</c>
+            </r>
+            <r>
+              <c>Baird, Cailin B.</c>
+              <c>1-381-893-2755</c>
+              <c>ut.odio.vel@nonummy.com</c>
+              <c>07/17/16</c>
+              <c>16370901-6178</c>
+              <c>70</c>
+              <c>P.O. Box 660, 1165 Sociis Rd.</c>
+              <c>Phoenix</c>
+              <c>85373</c>
+              <c>Arizona</c>
+              <c>-25.3097, 155.81236</c>
+              <c>Maxine M. Barlow</c>
+              <c>2016-10-10 21:06:16</c>
+              <c>$68.07</c>
+              <c>E73EC86B-98C6-EC92-638B-B97402B7A094</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>2BCE7512-EEFA-AD2A-B874-12D67134DF0E</c>
+            </r>
+            <r>
+              <c>Gregory, Indira Q.</c>
+              <c>1-955-140-1081</c>
+              <c>amet.massa@pellentesquea.edu</c>
+              <c>07/02/16</c>
+              <c>16621105-6640</c>
+              <c>71</c>
+              <c>4238 Sed St.</c>
+              <c>Birmingham</c>
+              <c>36083</c>
+              <c>AL</c>
+              <c>-36.66016, -158.48942</c>
+              <c>Ivana Lucas</c>
+              <c>2018-05-23 00:45:36</c>
+              <c>$41.33</c>
+              <c>40E7502E-CD76-AEF3-6560-340C785D5C3D</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>51318649-01FC-B2F0-0C64-D950453C318D</c>
+            </r>
+            <r>
+              <c>Yang, Imani U.</c>
+              <c>1-131-227-1396</c>
+              <c>Integer@imperdietullamcorper.com</c>
+              <c>11/18/16</c>
+              <c>16571223-3658</c>
+              <c>72</c>
+              <c>Ap #178-2650 Vitae St.</c>
+              <c>Sioux City</c>
+              <c>99127</c>
+              <c>Iowa</c>
+              <c>6.04519, 172.64495</c>
+              <c>Yael K. Campbell</c>
+              <c>2016-12-27 22:43:13</c>
+              <c>$32.35</c>
+              <c>C087D58B-18CB-DA3B-771F-812818FDBE1F</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>FB911766-8FC6-342A-6731-8E2D1831470C</c>
+            </r>
+            <r>
+              <c>Erickson, Emma F.</c>
+              <c>1-295-940-5854</c>
+              <c>erat.eget.ipsum@erat.edu</c>
+              <c>01/23/17</c>
+              <c>16270919-5164</c>
+              <c>73</c>
+              <c>2124 Felis, Avenue</c>
+              <c>Helena</c>
+              <c>16641</c>
+              <c>Montana</c>
+              <c>-15.15537, 89.68131</c>
+              <c>Rosalyn William</c>
+              <c>2017-04-02 22:14:39</c>
+              <c>$1.68</c>
+              <c>90753F85-279C-DBAF-0FD2-7B4E9AEAF9B9</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>52F2FA44-0B18-7030-3F6F-64C95D25BEE0</c>
+            </r>
+            <r>
+              <c>Ramsey, Amy N.</c>
+              <c>1-692-824-1833</c>
+              <c>eu.erat.semper@infelisNulla.edu</c>
+              <c>05/19/17</c>
+              <c>16451207-7662</c>
+              <c>74</c>
+              <c>Ap #506-2930 Eget, Street</c>
+              <c>Columbia</c>
+              <c>51658</c>
+              <c>MO</c>
+              <c>70.92226, -11.59605</c>
+              <c>Neve Willis</c>
+              <c>2018-02-14 10:31:41</c>
+              <c>$56.42</c>
+              <c>B822441A-649C-C4DF-C4DC-AD40210B5BEF</c>
+              <c>Card</c>
+              <c>Electronics</c>
+              <c>E51F7BA3-DDF5-49D0-3685-0373AB2DFBAE</c>
+            </r>
+            <r>
+              <c>Oconnor, Iliana C.</c>
+              <c>1-661-650-4427</c>
+              <c>vestibulum@atnisi.ca</c>
+              <c>01/01/17</c>
+              <c>16430916-8013</c>
+              <c>75</c>
+              <c>P.O. Box 438, 2307 Sodales Rd.</c>
+              <c>Billings</c>
+              <c>57189</c>
+              <c>Montana</c>
+              <c>8.40916, -177.38306</c>
+              <c>Ross Head</c>
+              <c>2017-03-29 12:08:39</c>
+              <c>$15.95</c>
+              <c>32980E1B-C404-B0D6-C14B-C907DF4ABBF6</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>13083D10-E94A-7A6F-7EA6-8A6D1374F3C0</c>
+            </r>
+            <r>
+              <c>Holland, Abdul F.</c>
+              <c>1-352-117-0748</c>
+              <c>Sed.pharetra.felis@orci.co.uk</c>
+              <c>07/07/16</c>
+              <c>16850202-7702</c>
+              <c>76</c>
+              <c>8356 Tellus. Rd.</c>
+              <c>Cleveland</c>
+              <c>41331</c>
+              <c>Ohio</c>
+              <c>-82.81233, 7.46098</c>
+              <c>Stacey Davenport</c>
+              <c>2017-09-23 08:41:56</c>
+              <c>$37.76</c>
+              <c>0F5B99BD-F6AE-3AAF-CF15-1F6E91B7BA49</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>F918E9D1-710B-6CC4-092B-B57D771BC472</c>
+            </r>
+            <r>
+              <c>Mueller, Deanna H.</c>
+              <c>1-232-323-9994</c>
+              <c>et@risus.net</c>
+              <c>11/22/16</c>
+              <c>16860508-9088</c>
+              <c>77</c>
+              <c>P.O. Box 810, 5380 Ipsum. Av.</c>
+              <c>Oklahoma City</c>
+              <c>56026</c>
+              <c>OK</c>
+              <c>-7.64545, 26.20918</c>
+              <c>Leonard H. Vincent</c>
+              <c>2016-06-30 23:57:08</c>
+              <c>$62.35</c>
+              <c>360EE6DB-BEF2-80D0-2F85-AEA7592340C9</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>612DCE5A-12F6-1912-D6A1-C3D020F28357</c>
+            </r>
+            <r>
+              <c>Ramsey, Ira I.</c>
+              <c>1-181-154-2530</c>
+              <c>dui@ante.co.uk</c>
+              <c>03/14/17</c>
+              <c>16090214-6133</c>
+              <c>78</c>
+              <c>898-1099 Felis. Road</c>
+              <c>Spokane</c>
+              <c>40343</c>
+              <c>Washington</c>
+              <c>-42.93286, -159.73483</c>
+              <c>Wallace B. Gallagher</c>
+              <c>2017-12-10 06:52:27</c>
+              <c>$60.63</c>
+              <c>5C87F568-A038-32DB-D684-AF569357A514</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>59724054-FC58-EF8E-909F-EA9807FE8AC9</c>
+            </r>
+            <r>
+              <c>Elliott, September A.</c>
+              <c>1-108-580-5078</c>
+              <c>in@Suspendisse.edu</c>
+              <c>02/10/17</c>
+              <c>16840326-2200</c>
+              <c>79</c>
+              <c>480-1098 Sagittis. Rd.</c>
+              <c>Kansas City</c>
+              <c>83408</c>
+              <c>MO</c>
+              <c>-15.14811, 104.0957</c>
+              <c>Christopher Q. Trevino</c>
+              <c>2018-03-23 21:18:07</c>
+              <c>$48.82</c>
+              <c>2E178146-4D90-5752-FD2A-F20CE06A33EB</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>496ECBCB-7E76-675E-EB39-918A75097783</c>
+            </r>
+            <r>
+              <c>Mays, Rogan Z.</c>
+              <c>1-185-186-6298</c>
+              <c>imperdiet.ullamcorper.Duis@et.co.uk</c>
+              <c>01/04/17</c>
+              <c>16230624-1205</c>
+              <c>80</c>
+              <c>P.O. Box 871, 1100 Ipsum. Rd.</c>
+              <c>Fort Wayne</c>
+              <c>55138</c>
+              <c>Indiana</c>
+              <c>19.49007, 127.40503</c>
+              <c>Ulla Head</c>
+              <c>2017-06-01 05:16:05</c>
+              <c>$54.40</c>
+              <c>AF955E0E-A917-5A76-DBEC-64DBACDB5A4E</c>
+              <c>Voucher</c>
+              <c>Electronics</c>
+              <c>5E86C851-98CF-EA8F-E8E7-1AF459D202B4</c>
+            </r>
+            <r>
+              <c>Durham, Roth K.</c>
+              <c>1-288-877-5706</c>
+              <c>hendrerit@auctor.com</c>
+              <c>03/06/17</c>
+              <c>16690204-8401</c>
+              <c>81</c>
+              <c>Ap #502-5331 Posuere St.</c>
+              <c>Columbia</c>
+              <c>35981</c>
+              <c>MD</c>
+              <c>-12.76101, 135.44565</c>
+              <c>Hamilton Stevens</c>
+              <c>2018-05-03 11:29:47</c>
+              <c>$93.18</c>
+              <c>451EBA91-03D1-C062-036C-9CEA18EC1189</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>4C8EC07C-F9DD-D26A-DBC8-4439BFC18317</c>
+            </r>
+            <r>
+              <c>Fisher, Allegra V.</c>
+              <c>1-770-389-7212</c>
+              <c>a@bibendum.org</c>
+              <c>06/18/16</c>
+              <c>16920222-7659</c>
+              <c>82</c>
+              <c>5613 Luctus Av.</c>
+              <c>Broken Arrow</c>
+              <c>64600</c>
+              <c>OK</c>
+              <c>-24.89803, -38.95988</c>
+              <c>Xenos A. Gregory</c>
+              <c>2016-12-27 17:37:35</c>
+              <c>$58.44</c>
+              <c>6645FA22-3D35-6180-F297-478BE02A25DC</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>48A42896-AF47-26BA-53C1-D9ADD2D35D6C</c>
+            </r>
+            <r>
+              <c>Cox, Noble W.</c>
+              <c>1-860-762-7155</c>
+              <c>magna.Phasellus@mitempor.ca</c>
+              <c>11/26/16</c>
+              <c>16270509-0005</c>
+              <c>83</c>
+              <c>P.O. Box 533, 7919 Nulla Street</c>
+              <c>Phoenix</c>
+              <c>85915</c>
+              <c>Arizona</c>
+              <c>28.23686, -136.18582</c>
+              <c>Gail Q. Singleton</c>
+              <c>2017-01-19 19:43:23</c>
+              <c>$24.46</c>
+              <c>879296DC-74E7-9A16-9013-C4D115C06BE3</c>
+              <c>Cash</c>
+              <c>Groceries</c>
+              <c>1DCBF46E-4330-F914-5026-10F9DAE48CCC</c>
+            </r>
+            <r>
+              <c>Dale, Carlos O.</c>
+              <c>1-171-129-3564</c>
+              <c>commodo.at.libero@erosnectellus.com</c>
+              <c>03/02/17</c>
+              <c>16761130-6510</c>
+              <c>84</c>
+              <c>P.O. Box 133, 9095 Lorem, Rd.</c>
+              <c>Virginia Beach</c>
+              <c>72440</c>
+              <c>Virginia</c>
+              <c>3.48014, -74.45451</c>
+              <c>Jameson Rios</c>
+              <c>2016-12-04 23:48:29</c>
+              <c>$16.69</c>
+              <c>2FAAF19A-A182-4029-67F4-FA9426AE2D32</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>1477A2B2-9E39-321B-3F3D-445629FC4BE1</c>
+            </r>
+            <r>
+              <c>Brock, Yetta V.</c>
+              <c>1-169-817-3660</c>
+              <c>Lorem.ipsum@nibhDonecest.ca</c>
+              <c>03/04/17</c>
+              <c>16270109-1106</c>
+              <c>85</c>
+              <c>7969 Tortor Ave</c>
+              <c>Stamford</c>
+              <c>33733</c>
+              <c>CT</c>
+              <c>24.1938, 159.62662</c>
+              <c>Kato J. Daniel</c>
+              <c>2018-05-03 14:23:55</c>
+              <c>$1.27</c>
+              <c>2444BA9D-6FD1-687D-5A03-BCDA20AE0026</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>E42851CA-F760-DE2A-27AA-096DACF0BECE</c>
+            </r>
+            <r>
+              <c>Wilson, Dustin T.</c>
+              <c>1-377-377-1985</c>
+              <c>hendrerit.Donec@Nullamsuscipit.co.uk</c>
+              <c>04/27/17</c>
+              <c>16500314-8433</c>
+              <c>86</c>
+              <c>698-5597 Id Street</c>
+              <c>Portland</c>
+              <c>55239</c>
+              <c>Oregon</c>
+              <c>10.86163, 99.03502</c>
+              <c>Shaeleigh Q. Ramirez</c>
+              <c>2016-12-23 01:32:44</c>
+              <c>$44.74</c>
+              <c>9EE2F579-553C-1569-334E-FDE0BADA97A8</c>
+              <c>Voucher</c>
+              <c>Electronics</c>
+              <c>EDAD9AB0-0643-9D42-4228-4CA1EDA0CFC9</c>
+            </r>
+            <r>
+              <c>Paul, Brynn H.</c>
+              <c>1-967-859-2008</c>
+              <c>pellentesque.tellus@lacus.co.uk</c>
+              <c>11/05/16</c>
+              <c>16920529-6651</c>
+              <c>87</c>
+              <c>P.O. Box 604, 6620 Nonummy Ave</c>
+              <c>Kapolei</c>
+              <c>65258</c>
+              <c>HI</c>
+              <c>-13.27238, -60.1891</c>
+              <c>Isabelle Barker</c>
+              <c>2018-03-29 04:14:42</c>
+              <c>$24.65</c>
+              <c>BB754BD8-B5F8-D0F8-7172-69B4A7D80C16</c>
+              <c>Card</c>
+              <c>Pharmacy</c>
+              <c>9CAF0300-8E03-65A4-16C9-249DE00039B0</c>
+            </r>
+            <r>
+              <c>Harris, Elliott G.</c>
+              <c>1-362-639-9641</c>
+              <c>faucibus.orci.luctus@acorciUt.co.uk</c>
+              <c>03/06/17</c>
+              <c>16330921-1252</c>
+              <c>88</c>
+              <c>P.O. Box 944, 1150 A Road</c>
+              <c>Kailua</c>
+              <c>91913</c>
+              <c>Hawaii</c>
+              <c>20.05303, 156.01182</c>
+              <c>Dawn M. Sharp</c>
+              <c>2017-03-27 02:52:46</c>
+              <c>$24.38</c>
+              <c>982165FB-AEEA-BCE3-7C23-E033E9B91637</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>4E51C625-BAC2-787D-2AD5-86FB4A53CB8E</c>
+            </r>
+            <r>
+              <c>Thomas, Kyra Q.</c>
+              <c>1-899-919-5885</c>
+              <c>Pellentesque.ultricies.dignissim@necimperdiet.com</c>
+              <c>12/06/16</c>
+              <c>16090622-2765</c>
+              <c>89</c>
+              <c>Ap #402-1683 Pede, Av.</c>
+              <c>Chattanooga</c>
+              <c>84092</c>
+              <c>Tennessee</c>
+              <c>-78.79526, -130.65306</c>
+              <c>Tatum S. Mckinney</c>
+              <c>2017-05-24 09:37:11</c>
+              <c>$17.38</c>
+              <c>2EB8B90A-D860-2C90-7525-53C157E243C2</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>E539BBA0-2613-5284-C686-E3EFD7238888</c>
+            </r>
+            <r>
+              <c>Castillo, Kylan V.</c>
+              <c>1-906-475-9308</c>
+              <c>nibh.lacinia.orci@a.co.uk</c>
+              <c>07/29/16</c>
+              <c>16200117-3216</c>
+              <c>90</c>
+              <c>P.O. Box 512, 9660 Nullam Street</c>
+              <c>Racine</c>
+              <c>69795</c>
+              <c>WI</c>
+              <c>-32.36439, -171.12393</c>
+              <c>Callum K. Forbes</c>
+              <c>2017-06-24 12:22:34</c>
+              <c>$46.76</c>
+              <c>12DA12D8-F967-E50E-71CF-888B05D2140B</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>D61730CE-7056-43D3-FDE6-C93043C973ED</c>
+            </r>
+            <r>
+              <c>Travis, Stacy E.</c>
+              <c>1-935-838-5725</c>
+              <c>diam.nunc@pellentesque.net</c>
+              <c>08/01/16</c>
+              <c>16580401-1830</c>
+              <c>91</c>
+              <c>7409 Feugiat. Avenue</c>
+              <c>Hattiesburg</c>
+              <c>23004</c>
+              <c>MS</c>
+              <c>-23.4851, -100.33702</c>
+              <c>Nigel T. Hines</c>
+              <c>2018-04-08 08:13:33</c>
+              <c>$49.58</c>
+              <c>E8E5D616-08B7-4072-532D-606AB48A09E5</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>4463EDD0-08A9-E4EC-8C24-3A58CE2CBDEA</c>
+            </r>
+            <r>
+              <c>Estrada, Amethyst V.</c>
+              <c>1-782-501-3191</c>
+              <c>arcu.Sed.eu@mifringillami.org</c>
+              <c>07/21/16</c>
+              <c>16871019-5978</c>
+              <c>92</c>
+              <c>P.O. Box 685, 3241 Ut, Avenue</c>
+              <c>Kailua</c>
+              <c>13614</c>
+              <c>Hawaii</c>
+              <c>46.28617, -95.97445</c>
+              <c>Germaine Gillespie</c>
+              <c>2017-10-01 13:32:10</c>
+              <c>$72.76</c>
+              <c>17B33635-382B-A282-C762-6D858749D9A9</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>942527F6-85E4-4836-05E4-F5FD2A16C2A0</c>
+            </r>
+            <r>
+              <c>Daniels, Justin K.</c>
+              <c>1-393-231-6307</c>
+              <c>ipsum.cursus@urnaVivamusmolestie.net</c>
+              <c>09/21/16</c>
+              <c>16320713-3335</c>
+              <c>93</c>
+              <c>277-738 Tellus. Av.</c>
+              <c>Broken Arrow</c>
+              <c>86806</c>
+              <c>OK</c>
+              <c>-56.03548, 165.74794</c>
+              <c>Gemma M. Leach</c>
+              <c>2017-09-23 00:41:48</c>
+              <c>$27.15</c>
+              <c>75B078B0-A85D-B9AB-C7A6-57561B8ADBBA</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>A1D393C8-C76C-D0BC-D8EA-12BAF75ACC03</c>
+            </r>
+            <r>
+              <c>Ochoa, Wylie H.</c>
+              <c>1-468-285-6104</c>
+              <c>erat@nullamagna.com</c>
+              <c>07/07/17</c>
+              <c>16260928-3680</c>
+              <c>94</c>
+              <c>Ap #260-4418 Phasellus St.</c>
+              <c>Metairie</c>
+              <c>11876</c>
+              <c>LA</c>
+              <c>-36.01576, -22.11029</c>
+              <c>Asher C. Gibson</c>
+              <c>2017-06-10 08:45:56</c>
+              <c>$27.32</c>
+              <c>6C885862-1A40-1A32-CC9D-CC06E0086DBE</c>
+              <c>Card</c>
+              <c>Groceries</c>
+              <c>BEB6BA60-A803-44E9-DFF7-F77EB5290B03</c>
+            </r>
+            <r>
+              <c>Whitney, Ferdinand E.</c>
+              <c>1-770-929-8207</c>
+              <c>purus.ac.tellus@nonleoVivamus.org</c>
+              <c>05/20/17</c>
+              <c>16601223-8991</c>
+              <c>95</c>
+              <c>Ap #570-5523 Ut Road</c>
+              <c>Springfield</c>
+              <c>58273</c>
+              <c>Missouri</c>
+              <c>-72.70812, 151.9095</c>
+              <c>Farrah I. Smith</c>
+              <c>2018-01-15 13:42:02</c>
+              <c>$28.14</c>
+              <c>B3D902D1-E060-8FDA-608F-92CA6019FFAD</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>3158D0BE-41DC-E515-6ED0-7FDD8A4D868A</c>
+            </r>
+            <r>
+              <c>Edwards, Vielka L.</c>
+              <c>1-572-445-5089</c>
+              <c>mi@sitametlorem.co.uk</c>
+              <c>07/21/17</c>
+              <c>16630703-3677</c>
+              <c>96</c>
+              <c>9208 Magna Road</c>
+              <c>Athens</c>
+              <c>23277</c>
+              <c>Georgia</c>
+              <c>-31.65086, -118.86845</c>
+              <c>Nadine Talley</c>
+              <c>2017-08-05 01:53:31</c>
+              <c>$30.23</c>
+              <c>2A78C47F-C7D6-DF16-B053-ED2419F9D9DE</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>BFFC0991-21EB-3963-6DF6-9861E2EFF7E9</c>
+            </r>
+            <r>
+              <c>Berry, Gisela Z.</c>
+              <c>1-727-141-5779</c>
+              <c>non@et.co.uk</c>
+              <c>06/16/17</c>
+              <c>16520904-7199</c>
+              <c>97</c>
+              <c>414-4163 Semper, Ave</c>
+              <c>Savannah</c>
+              <c>41362</c>
+              <c>Georgia</c>
+              <c>29.82305, -82.16255</c>
+              <c>Halla V. Mcintosh</c>
+              <c>2016-11-30 21:17:38</c>
+              <c>$34.41</c>
+              <c>B1497F13-F496-6C51-09A6-E6AD752A40B2</c>
+              <c>Cash</c>
+              <c>Electronics</c>
+              <c>4DDD2819-F17F-B24A-1E12-3E05B665579E</c>
+            </r>
+            <r>
+              <c>Shepard, Devin O.</c>
+              <c>1-280-420-9501</c>
+              <c>et.pede@metus.com</c>
+              <c>11/04/16</c>
+              <c>16620420-7663</c>
+              <c>98</c>
+              <c>360-5109 Rhoncus Ave</c>
+              <c>Tampa</c>
+              <c>37298</c>
+              <c>FL</c>
+              <c>20.66524, -97.65285</c>
+              <c>Sopoline Y. Shaffer</c>
+              <c>2017-11-06 20:21:38</c>
+              <c>$87.38</c>
+              <c>2AB41E48-0BE7-83C1-BE9C-BA736AB36349</c>
+              <c>Voucher</c>
+              <c>Pharmacy</c>
+              <c>EEB6F1D9-2876-7363-1BA4-BFF7E6762E9D</c>
+            </r>
+            <r>
+              <c>Cantrell, Noah H.</c>
+              <c>1-340-625-2459</c>
+              <c>lorem.ipsum@nunc.edu</c>
+              <c>07/18/16</c>
+              <c>16850628-4580</c>
+              <c>99</c>
+              <c>Ap #862-2697 Amet, St.</c>
+              <c>Newark</c>
+              <c>63825</c>
+              <c>Delaware</c>
+              <c>-44.43233, 42.68962</c>
+              <c>Jackson Q. Glenn</c>
+              <c>2017-02-26 09:13:49</c>
+              <c>$62.71</c>
+              <c>B381B01A-C61D-FBDF-5EC5-230ED77DD3AC</c>
+              <c>Cash</c>
+              <c>Pharmacy</c>
+              <c>2698089D-3EF5-F4C6-F63A-869F9AB9F2B6</c>
+            </r>
+            <r>
+              <c>Washington, Imelda Q.</c>
+              <c>1-657-877-1842</c>
+              <c>tortor@enimcommodohendrerit.org</c>
+              <c>09/03/16</c>
+              <c>16810907-7092</c>
+              <c>100</c>
+              <c>425-6215 Tincidunt Avenue</c>
+              <c>Norman</c>
+              <c>28391</c>
+              <c>Oklahoma</c>
+              <c>14.0651, 47.68675</c>
+              <c>Germane N. Rhodes</c>
+              <c>2016-09-26 10:29:23</c>
+              <c>$8.96</c>
+              <c>3AD00832-2721-771F-DC39-9BB484C3D2CC</c>
+              <c>Voucher</c>
+              <c>Groceries</c>
+              <c>23526360-4BA4-71C7-AD4F-CD2B952AE107</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Store Transactions</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Starter Workflow 3.2</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

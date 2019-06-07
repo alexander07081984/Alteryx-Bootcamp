@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">.\Payment and Value of Care - Hospital.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Payment and Value of Care - Hospital.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Provider ID" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Hospital name" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="ZIP Code" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="County name" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Phone number" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Payment measure name" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Payment measure ID" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Payment category" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Denominator" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Payment" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Lower estimate" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Higher estimate" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Payment footnote" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Value of care display name" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Value of care display ID" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Value of care category" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Value of care footnote" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Measure start date" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Measure end date" size="254" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="150" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="Provider ID" selected="True" />
+            <Field field="Hospital name" selected="True" />
+            <Field field="Address" selected="True" />
+            <Field field="City" selected="True" />
+            <Field field="State" selected="True" />
+            <Field field="ZIP Code" selected="True" />
+            <Field field="County name" selected="True" />
+            <Field field="Phone number" selected="True" />
+            <Field field="Payment measure name" selected="True" />
+            <Field field="Payment measure ID" selected="True" />
+            <Field field="Payment category" selected="True" />
+            <Field field="Denominator" selected="True" />
+            <Field field="Payment" selected="True" />
+            <Field field="Lower estimate" selected="True" />
+            <Field field="Higher estimate" selected="True" />
+            <Field field="Payment footnote" selected="True" />
+            <Field field="Value of care display name" selected="True" />
+            <Field field="Value of care display ID" selected="True" />
+            <Field field="Value of care category" selected="True" />
+            <Field field="Value of care footnote" selected="True" />
+            <Field field="Measure start date" selected="True" />
+            <Field field="Measure end date" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Provider ID" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="Int32" />
+            <Field name="Hospital name" size="50" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Address" size="50" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="City" size="20" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="State" size="2" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="ZIP Code" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="Int32" />
+            <Field name="County name" size="20" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Phone number" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="Int64" />
+            <Field name="Payment measure name" size="34" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Payment measure ID" size="11" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Payment category" size="46" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Denominator" size="5" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Payment" size="6" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Lower estimate" size="6" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Higher estimate" size="6" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Payment footnote" size="145" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Value of care display name" size="35" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Value of care display ID" size="16" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Value of care category" size="37" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Value of care footnote" size="145" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="V_String" />
+            <Field name="Measure start date" size="13" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+            <Field name="Measure end date" size="13" source="File: C:\Users\adam\Downloads\5.1 All Resources.zip\3.13 Auto Field Tool\Payment and Value of Care - Hospital.csv" type="String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>13. Auto Field Tool</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

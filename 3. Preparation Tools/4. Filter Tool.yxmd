@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.2">
+  <Nodes>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">.\3.4 Store Transactions.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>3.4 Store Transactions.xlsx
+Table=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Transaction Date" source="File: C:\Users\adam\Documents\Alteryx Bootcamp\alteryx-bootcamp\3. Preparation Tools\3.4 Store Transactions.xlsx|||`Sheet1$`" type="Date" />
+            <Field name="Transaction Amount" source="File: C:\Users\adam\Documents\Alteryx Bootcamp\alteryx-bootcamp\3. Preparation Tools\3.4 Store Transactions.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Department" size="255" source="File: C:\Users\adam\Documents\Alteryx Bootcamp\alteryx-bootcamp\3. Preparation Tools\3.4 Store Transactions.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Cashier" size="255" source="File: C:\Users\adam\Documents\Alteryx Bootcamp\alteryx-bootcamp\3. Preparation Tools\3.4 Store Transactions.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="ZIP" size="255" source="File: C:\Users\adam\Documents\Alteryx Bootcamp\alteryx-bootcamp\3. Preparation Tools\3.4 Store Transactions.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="City" size="255" source="File: C:\Users\adam\Documents\Alteryx Bootcamp\alteryx-bootcamp\3. Preparation Tools\3.4 Store Transactions.xlsx|||`Sheet1$`" type="V_WString" />
+            <Field name="Region" size="255" source="File: C:\Users\adam\Documents\Alteryx Bootcamp\alteryx-bootcamp\3. Preparation Tools\3.4 Store Transactions.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="150" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[City] = "chicago"</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>City</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2019-06-07 06:07:54</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2019-06-07 06:07:54</StartDate>
+              <EndDate>2019-06-07 06:07:54</EndDate>
+              <Operand>chicago</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[City] = "chicago"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>4. Filter Tool</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
